@@ -13,3 +13,11 @@ More specifically, wildfire size is quantified using Burnt Area(how much of the 
 ![Alt text](https://github.com/kevhainfo/PersonalWork/blob/8ac2ec13363c473065d1ca1fdea6e1c29415972f/wildfire/Screen%20Shot%202023-07-08%20at%208.31.06%20PM.png)
 
 The Jacard Index is 0.9(significantly better)
+
+
+PONG WITH MACHINE LEARNING
+I made an application for my high school computer science club: it creates Pong Bots that use data from playing the game to create a bot that mimics that player's movements.
+
+
+CUCKOO SEARCH
+I researched an optimization metaheuristic to solve the traveling salesman problem and wrote a 4000-word paper on it.
