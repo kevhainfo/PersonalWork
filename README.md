@@ -14,7 +14,9 @@ More specifically, wildfire size is quantified using Burnt Area(how much of the 
 
 The Jacard Index is 0.9(significantly better)
 
+<be>
 
+  
 PONG WITH MACHINE LEARNING:
 I made an application for my high school computer science club: it creates Pong Bots that mimic a player's movements using Random Forests
 
@@ -26,3 +28,7 @@ This is a screenshot of the actual gameplay. The bot is on the left, and the pla
 
 CUCKOO SEARCH:
 I used cuckoo search, a nature-based metaheuristic, to find optimal routes to the Traveling Salesman Problem.
+
+<be>
+This is the tour produced on iteration 35 of the cuckoo search algorithm. It shows the optimal tour for this particular TSP input.
+![Alt text](https://github.com/kevhainfo/PersonalWork/blob/bc6c749ca5a84458d2faa1d4cbbee0eeed18d7c5/cuckooSearch/cuckooSearch.png)
