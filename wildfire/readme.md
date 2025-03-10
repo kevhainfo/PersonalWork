@@ -1,2 +1,2 @@
 UNETWILDFIRE: binary image segmentation <br>
-UNETWILDFIREMULTICLASS: multiclass image segmentation file
+UNETWILDFIREMULTICLASS: multiclass image segmentation 
