@@ -18,6 +18,10 @@ The Jacard Index is 0.9(significantly better)
 PONG WITH MACHINE LEARNING:
 I made an application for my high school computer science club: it creates Pong Bots that mimic a player's movements using Random Forests
 
+<be>
+This is a screenshot of the actual gameplay. The bot is on the left, and the player is on the right. The bot's movements are learned from the player's previous movements relative to the ball's position.
+
+![Alt text](https://github.com/kevhainfo/PersonalWork/blob/8e0203f04c79580fcb30660c3f3aba4673db8f47/PongWithMachineLearning/pong.png)
 
 
 CUCKOO SEARCH:
