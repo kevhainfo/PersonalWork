@@ -1,5 +1,5 @@
 # Personal Work
-Hi! Below I've detailed my work on wildfire prediction, PONG with Machine Learning, and the Cuckoo Search Metaheuristic.
+Hi! Below I've detailed my work on wildfire prediction, PONG with Machine Learning, and the Cuckoo Search Metaheuristic. I've also included the code for my USACO (United States Computing Olympiad) Silver submissions.
 
 WILDFIRE PREDICTION
 I used the UNET architecture to predict wildfires on global wildfire maps.
