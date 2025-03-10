@@ -20,4 +20,4 @@ I made an application for my high school computer science club: it creates Pong 
 
 
 CUCKOO SEARCH
-I used cuckoo search , a nature-based metaheursitic, to find optimal routes to the Traveling Salesman Problem.
+I used cuckoo search, a nature-based metaheuristic, to find optimal routes to the Traveling Salesman Problem.
