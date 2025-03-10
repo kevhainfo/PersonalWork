@@ -1,5 +1,5 @@
 # Personal Work
-Hi! Below I've detailed my work on wildfire prediction, PONG with Machine Learning, and the Cuckoo search Metaheuristic.
+Hi! Below I've detailed my work on wildfire prediction, PONG with Machine Learning, and the Cuckoo Search Metaheuristic.
 
 WILDFIRE PREDICTION
 I used the UNET architecture to predict wildfires on global wildfire maps.
@@ -15,9 +15,10 @@ More specifically, wildfire size is quantified using Burnt Area(how much of the 
 The Jacard Index is 0.9(significantly better)
 
 
-PONG WITH MACHINE LEARNING
+PONG WITH MACHINE LEARNING:
 I made an application for my high school computer science club: it creates Pong Bots that mimic a player's movements using Random Forests
 
 
-CUCKOO SEARCH
+
+CUCKOO SEARCH:
 I used cuckoo search, a nature-based metaheuristic, to find optimal routes to the Traveling Salesman Problem.
