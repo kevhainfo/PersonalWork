@@ -1,9 +1,8 @@
 Project Pipeline: <br>
-Data exploration and cleaning: dataExploration folder
+Data exploration and cleaning: dataExploration folder 
 <be>
-countryBoundingboxes.csv and countrySelection: 
+country-boundingboxes.csv and countrySelection: selects country form geospatial dataset <be>
 
+UNETWILDFIRE nobebook: binary image segmentation <br>
 
-UNETWILDFIRE: binary image segmentation <br>
-
-UNETWILDFIREMULTICLASS: multiclass image segmentation 
+UNETWILDFIREMULTICLASS notebook: multiclass image segmentation 
