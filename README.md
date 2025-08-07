@@ -1,7 +1,16 @@
 # Personal Work
-Hi! Below I've detailed my work on wildfire prediction, PONG with Machine Learning, and the Cuckoo Search Metaheuristic. I've also included the code for my USACO (United States Computing Olympiad) Silver submissions.
+Hi! Below I've detailed my work as an Applied Computer Vision Intern, Wildfire Prediction using Computer Vision Techniques, PONG with Machine Learning, and the Cuckoo Search Optimization Technique. I've also included the C++ code for my USACO (United States Computing Olympiad) Silver submissions that were completed during a timed competition.
 
-WILDFIRE PREDICTION
+Computer Vision Internship:
+I used satellite imagery, remote sensing data, and deep learning models to predict future yield for a dozen farms across New York. I used PyTorch for the LSTM models and Pix4D for the drone image processing.
+
+<be>
+This is the poster that summarizes the work I completed during the summer. It shows the results, confusion matrices for the XGBoost and LSTM models, and important takeaways. I'm still working as a researcher for the team this fall (2025). 
+  
+![Alt text](https://github.com/kevhainfo/PersonalWork/blob/bc6c749ca5a84458d2faa1d4cbbee0eeed18d7c5/cuckooSearch/cuckooSearch.png)
+
+
+WILDFIRE PREDICTION:
 I used the UNET architecture to predict wildfires on global wildfire maps.
 
 This first image depicts a binary segmentation scheme
@@ -33,4 +42,6 @@ I used cuckoo search, a nature-based metaheuristic, to find optimal routes to th
 This is the tour produced on iteration 35 of the cuckoo search algorithm. It shows the optimal tour for this particular TSP input.
   
 ![Alt text](https://github.com/kevhainfo/PersonalWork/blob/bc6c749ca5a84458d2faa1d4cbbee0eeed18d7c5/cuckooSearch/cuckooSearch.png)
+
+
 
