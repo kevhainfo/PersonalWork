@@ -7,7 +7,7 @@ I used satellite imagery, remote sensing data, and deep learning models to predi
 <be>
 This is the poster that summarizes the work I completed during the summer. It shows the results, confusion matrices for the XGBoost and LSTM models, and important takeaways. I'm still working as a researcher for the team this fall (2025). 
   
-![Alt text](https://github.com/kevhainfo/PersonalWork/blob/bc6c749ca5a84458d2faa1d4cbbee0eeed18d7c5/cuckooSearch/cuckooSearch.png)
+![Alt text](https://github.com/kevhainfo/PersonalWork/blob/1021440f9b41ee8a328d34b865dad4a8b39dbdb2/Computer_Vision_Internship/POSTER_REVISION.001.jpeg)
 
 
 WILDFIRE PREDICTION:
