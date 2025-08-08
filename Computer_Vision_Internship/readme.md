@@ -1,1 +1,1 @@
-Computer Vision Internship
+Computer Vision Internship: Above is the poster summarizing the work I completed during my summer Computer Vision Internship. The actual code (Python, PyTorch) uses the Farm's Yield Data, which I'm not allowed to share. 
