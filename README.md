@@ -1,3 +1,7 @@
+# About Me
+Cornell ECE student, D1 Coxswain. I build models that optimize physical performance—from mining satellite imagery to forecast crop yields to applying signal processing for rowing mechanics. I thrive in high-pressure environments that require technical skill and creativity
+
+
 # Personal Work
 Hi! Below I've detailed my work on the following projects: Spatial-Temporal Farm Analysis as a Machine Learning/Signal Processing Intern, Wildfire Prediction, PONG Bot Design, New Approaches to the Traveling Salesman Optimization Problem. I've also included the C++ code for my USACO (United States Computing Olympiad) Silver submissions that were completed during a timed competition.
 
