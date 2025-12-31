@@ -1,7 +1,9 @@
 # Personal Work
 Hi! Below I've detailed my work on the following projects: Spatial-Temporal Farm Analysis as an Applied Computer Vision Intern, Wildfire Prediction, PONG Bot Design, New Approaches to the Traveling Salesman Optimization Problem. I've also included the C++ code for my USACO (United States Computing Olympiad) Silver submissions that were completed during a timed competition.
 
-Computer Vision Internship:
+
+Machine Learning/Signal Processing Research Engineer
+:
 I used satellite imagery, remote sensing data, and deep learning models to predict future yield for a dozen farms across New York. I used PyTorch for the LSTM models and Pix4D for the drone image processing.
 
 <be>
