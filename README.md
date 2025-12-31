@@ -1,5 +1,5 @@
 # About Me
-Cornell ECE student, D1 Coxswain. I build models that optimize physical performance—from mining satellite imagery to forecast crop yields to applying signal processing for rowing mechanics. I thrive in high-pressure environments that require technical skill and creativity
+Cornell Electrical Computer Engineering student, D1 Coxswain. I build models that optimize physical performance—from mining satellite imagery to forecast crop yields to applying signal processing for rowing mechanics. I thrive in high-pressure environments that require technical skill and creativity
 
 
 # Personal Work
