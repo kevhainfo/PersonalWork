@@ -1,5 +1,5 @@
 # Personal Work
-Hi! Below I've detailed my work on the following projects: Spatial-Temporal Farm Analysis as an Applied Computer Vision Intern, Wildfire Prediction, PONG Bot Design, New Approaches to the Traveling Salesman Optimization Problem. I've also included the C++ code for my USACO (United States Computing Olympiad) Silver submissions that were completed during a timed competition.
+Hi! Below I've detailed my work on the following projects: Spatial-Temporal Farm Analysis as a Machine Learning/Signal Processing Intern, Wildfire Prediction, PONG Bot Design, New Approaches to the Traveling Salesman Optimization Problem. I've also included the C++ code for my USACO (United States Computing Olympiad) Silver submissions that were completed during a timed competition.
 
 
 Machine Learning/Signal Processing Research Engineer
