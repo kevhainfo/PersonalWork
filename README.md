@@ -1,5 +1,4 @@
 # About Me
-Cornell ECE student | Division I Coxswain
 I enjoy building and optimizing real-world systems. My projects have ranged from using remote sensing imagery to predict crop yields to creating signal processing pipelines from rowing telemetry data. I'm at my best in environments that combine technical depth and creativity.
 (https://www.linkedin.com/in/kevin-ha-766098271/?skipRedirect=true)
 
