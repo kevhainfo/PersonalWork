@@ -1,6 +1,6 @@
 # About Me
-Cornell ECE student, D1 Coxswain. I build models that optimize physical performance — from data mining satellite imagery to applying signal processing for sports science. I do well in high-pressure environments that require technical skill and creativity.
-
+[Cornell ECE student, D1 Coxswain. I build models that optimize physical performance — from data mining satellite imagery to applying signal processing for sports science. I do well in high-pressure environments that require technical skill and creativity.
+](https://www.linkedin.com/in/kevin-ha-766098271/?skipRedirect=true)
 
 # Personal Work
 Hi! Below I've detailed my work on the following projects: Spatial-Temporal Farm Analysis as a Machine Learning/Signal Processing Intern, Wildfire Prediction, PONG Bot Design, New Approaches to the Traveling Salesman Optimization Problem. I've also included the C++ code for my USACO (United States Computing Olympiad) Silver submissions that were completed during a timed competition.
