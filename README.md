@@ -1,5 +1,5 @@
 # About Me
-I enjoy building and optimizing real-world systems. My projects have ranged from using remote sensing imagery to predict crop yields to creating signal processing pipelines from rowing telemetry data. I'm at my best in environments that combine technical depth and creativity.
+I enjoy finding hidden advantages in complex physical and sensor-based systems. My projects have ranged from mining satellite imagery for spatial crop yield models to building signal processing pipelines using boat telemetry data. I'm at my best in environments that combine technical skill, collaboration, and creative thinking.
 (https://www.linkedin.com/in/kevin-ha-766098271/?skipRedirect=true)
 
 # Personal Work
