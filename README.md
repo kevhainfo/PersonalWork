@@ -9,7 +9,7 @@ Hi! Below I've detailed my work on the following projects: Spatial-Temporal Farm
 
 Machine Learning/Signal Processing Research Engineer
 :
-I used satellite imagery, remote sensing data, and deep learning models to predict future yield for a dozen farms across New York. I used PyTorch for the LSTM models and Pix4D for the drone image processing.
+I used satellite imagery, UAV remote sensing data, and deep learning models to predict future yield for a dozen farms across New York. I used PyTorch for the LSTM models and Pix4D for the drone image processing.
 
 <be>
 This is the poster that summarizes the work I completed during the summer. It shows the results, confusion matrices for the XGBoost and LSTM models, and important takeaways. I'm still working as a researcher for the team this fall (2025). 
@@ -18,7 +18,7 @@ This is the poster that summarizes the work I completed during the summer. It sh
 
 
 WILDFIRE PREDICTION:
-I used the UNET architecture to predict wildfires on global wildfire maps.
+I used the UNET architecture to predict wildfires at different pixel resolutions.
 
 This first image depicts a binary segmentation scheme
 ![Alt text](https://github.com/kevhainfo/PersonalWork/blob/76abd92ea668cf097ea97f50b65b146cacdf0ba4/wildfire/prediction.png)
