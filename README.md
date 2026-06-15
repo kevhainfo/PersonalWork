@@ -1,5 +1,5 @@
 # About Me
-I enjoy finding hidden patterns in complex physical and sensor-based systems. My projects have ranged from developing predictive crop models using satellite and UAV sensing data to building signal processing pipelines from rowing telemetry. I'm at my best in environments that combine technical skill, collaboration, and creative thinking. <img width="468" height="51" alt="image" src="https://github.com/user-attachments/assets/290ca1c7-63b5-4be1-84c6-246c5f8081e9" />
+I enjoy finding hidden patterns in complex physical and sensor-based systems. My projects have ranged from developing predictive crop models using satellite and UAV sensing data to building signal processing pipelines from rowing telemetry. I'm at my best in environments that combine technical skill, collaboration, and creative thinking.
 
 (https://www.linkedin.com/in/kevin-ha-766098271/?skipRedirect=true)
 
