@@ -9,7 +9,7 @@ Hi! Below I've detailed my work on the following projects: Spatial-Temporal Farm
 
 Signal Processing/Machine Learning Intern
 :
-I used satellite imagery, UAV remote sensing data, and deep learning models to predict future yield for a dozen farms across New York. I used PyTorch for the LSTM models and Pix4D for the drone image processing.
+I used satellite imagery, UAV remote sensing data, and deep learning models to predict future yield for a dozen farms across New York. I used Python for the signal processing, PyTorch for the machine learning models, and Pix4D for the drone image processing.
 
 <be>
 This is the poster that summarizes the work I completed during the summer. It shows the results, confusion matrices for the XGBoost and LSTM models, and important takeaways. I'm still working as a researcher for the team. 
