@@ -12,7 +12,7 @@ Machine Learning/Signal Processing Research Engineer
 I used satellite imagery, UAV remote sensing data, and deep learning models to predict future yield for a dozen farms across New York. I used PyTorch for the LSTM models and Pix4D for the drone image processing.
 
 <be>
-This is the poster that summarizes the work I completed during the summer. It shows the results, confusion matrices for the XGBoost and LSTM models, and important takeaways. I'm still working as a researcher for the team this fall (2025). 
+This is the poster that summarizes the work I completed during the summer. It shows the results, confusion matrices for the XGBoost and LSTM models, and important takeaways. I'm still working as a researcher for the team. 
   
 ![Alt text](https://github.com/kevhainfo/PersonalWork/blob/1021440f9b41ee8a328d34b865dad4a8b39dbdb2/Computer_Vision_Internship/POSTER_REVISION.001.jpeg)
 
