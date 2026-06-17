@@ -7,7 +7,7 @@ I enjoy finding hidden patterns in complex physical and sensor-based systems. My
 Hi! Below I've detailed my work on the following projects: Spatial-Temporal Farm Analysis as a Machine Learning/Signal Processing Intern, Wildfire Prediction, PONG Bot Design, New Approaches to the Traveling Salesman Optimization Problem. I've also included the C++ code for my USACO (United States Computing Olympiad) Silver submissions that were completed during a timed competition.
 
 
-Machine Learning/Signal Processing Research Engineer
+Signal Processing/Machine Learning Intern
 :
 I used satellite imagery, UAV remote sensing data, and deep learning models to predict future yield for a dozen farms across New York. I used PyTorch for the LSTM models and Pix4D for the drone image processing.
 
